@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg3730"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="Hintergrund.svg">
+  <defs
+     id="defs3724" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="-641.94444"
+     inkscape:cy="649.8857"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="1016"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3727">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="ElekronikGruppe"
+       transform="translate(-493.28965,-254.53708)">
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         d="M 169.99999,296.9 V 132.90001 h -27.12733 l -4.5e-4,13.94463 h -21.85276 l 2.1e-4,-13.94463 h -72.147 l -4.5e-4,13.94468 H 27.01945 l 2.1e-4,-13.94468 H 0.1 V 296.9 h 26.94266 l -4.2e-4,-23.9999 h 21.80718 l 2.4e-4,23.9999 h 72.193 l -4.2e-4,-24.0001 h 21.80719 l 2.3e-4,24.0001 z"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="Elektronik" />
+      <circle
+         r="1.4053489"
+         cy="269"
+         cx="7"
+         id="path4855"
+         style="fill:none;stroke:#000000;stroke-width:0.18930227;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.4053489"
+         cy="269"
+         cx="163"
+         id="path4855-0"
+         style="fill:none;stroke:#000000;stroke-width:0.18930227;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.4053489"
+         cy="151.5"
+         cx="7"
+         id="path4855-07"
+         style="fill:none;stroke:#000000;stroke-width:0.18930227;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.4053489"
+         cy="151.5"
+         cx="163"
+         id="path4855-6"
+         style="fill:none;stroke:#000000;stroke-width:0.18930227;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="SonnenGruppe"
+       transform="translate(-323.38966,-254.53708)">
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         d="M 170,296.9 V 132.90001 h -27.12733 l -5.3e-4,13.94463 h -21.85276 l 2.1e-4,-13.94463 H 48.872671 l -5.3e-4,13.94468 h -21.85277 l 2.1e-4,-13.94468 H 0.1 V 296.9 h 26.942671 l -5.3e-4,-23.9999 h 21.80718 l 2.4e-4,23.9999 h 72.192999 l -5.2e-4,-24.0001 h 21.80719 l 2.3e-4,24.0001 z"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="Sonnenebene" />
+      <circle
+         r="1.4676974"
+         cy="151.4323"
+         cx="7.0676975"
+         id="path4900"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.4676974"
+         cy="151.4323"
+         cx="163.0677"
+         id="path4900-0"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.4676974"
+         cy="268.93231"
+         cx="7.0676975"
+         id="path4900-5"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.4676974"
+         cy="268.93231"
+         cx="163.0677"
+         id="path4900-0-8"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="GruppenEbene1"
+       transform="translate(850.91035,-254.53707)">
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         d="m 155,296.9 v -164 h -12.12732 l -5.3e-4,13.94463 H 121.01938 L 121.01959,132.9 H 48.872661 l -5.29e-4,13.94468 H 27.019372 L 27.019583,132.9 H 15.1 v 164 h 11.94266 l -5.29e-4,-23.9999 H 48.84932 l 2.4e-4,23.9999 h 72.193 l -5.3e-4,-24.0001 h 21.8072 l 2.4e-4,24.0001 z"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="HimmelsEbene1" />
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="Kreis1"
+         cx="85.050003"
+         cy="210.89973"
+         r="57.232983" />
+      <circle
+         r="1.4676974"
+         cy="151.43228"
+         cx="22.067698"
+         id="path4900-1"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.4676974"
+         cy="151.43228"
+         cx="148.0677"
+         id="path4900-0-6"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.4676974"
+         cy="268.93231"
+         cx="22.067698"
+         id="path4900-5-7"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.4676974"
+         cy="268.93231"
+         cx="148.0677"
+         id="path4900-0-8-9"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="GruppenEbene7"
+       transform="translate(-153.48966,-254.53707)">
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         d="m 170,296.9 v -164 h -27.12733 l -5.3e-4,13.94463 H 121.01938 L 121.01959,132.9 H 48.872664 l -5.3e-4,13.94468 H 27.019374 L 27.019584,132.9 H 0.1 v 164 h 26.942664 l -5.3e-4,-23.9999 h 21.80719 l 2.4e-4,23.9999 h 72.192996 l -5.3e-4,-24.0001 h 21.80719 l 2.3e-4,24.0001 z"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="HimmelsEbene7" />
+      <circle
+         r="21.434265"
+         cy="210.89973"
+         cx="85.050003"
+         id="Kreis7"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.4676974"
+         cy="151.43227"
+         cx="7.0676975"
+         id="path4900-1-7"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.4676974"
+         cy="151.43227"
+         cx="163.06769"
+         id="path4900-0-6-8"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.4676974"
+         cy="268.93231"
+         cx="7.0676975"
+         id="path4900-5-7-0"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.4676974"
+         cy="268.93231"
+         cx="163.06769"
+         id="path4900-0-8-9-0"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="GruppenEbene6"
+       transform="translate(16.41034,-254.53707)">
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         d="m 170,296.9 v -164 h -27.12733 l -5.3e-4,13.94463 H 121.01938 L 121.01959,132.9 H 48.87266 l -5.3e-4,13.94468 H 27.01937 L 27.01958,132.9 H 0.1 v 164 h 26.94266 l -5.3e-4,-23.9999 h 21.80719 l 2.4e-4,23.9999 h 72.193 l -5.3e-4,-24.0001 h 21.80719 l 2.3e-4,24.0001 z"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="HimmelsEbene6" />
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="Kreis6"
+         cx="85.050003"
+         cy="210.89973"
+         r="27.372297" />
+      <circle
+         r="1.4676974"
+         cy="151.43227"
+         cx="7.0676975"
+         id="path4900-1-6"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.4676974"
+         cy="151.43227"
+         cx="163.06769"
+         id="path4900-0-6-2"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.4676974"
+         cy="268.93231"
+         cx="7.0676975"
+         id="path4900-5-7-1"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.4676974"
+         cy="268.93231"
+         cx="163.06769"
+         id="path4900-0-8-9-3"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="GruppenEbene5"
+       transform="translate(186.31034,-254.53707)">
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         d="m 170,296.9 v -164 h -27.12733 l -5.3e-4,13.94463 H 121.01938 L 121.01959,132.9 H 48.872661 l -5.29e-4,13.94468 H 27.019372 L 27.019583,132.9 H 0.1 v 164 h 26.94266 l -5.29e-4,-23.9999 H 48.84932 l 2.4e-4,23.9999 h 72.193 l -5.3e-4,-24.0001 h 21.80719 l 2.3e-4,24.0001 z"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="HimmelsEbene5" />
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="Kreis5"
+         cx="85.050003"
+         cy="210.89973"
+         r="33.344433" />
+      <circle
+         r="1.4676974"
+         cy="151.43228"
+         cx="7.0676975"
+         id="path4900-1-8"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.4676974"
+         cy="151.43228"
+         cx="163.06769"
+         id="path4900-0-6-80"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.4676974"
+         cy="268.93231"
+         cx="7.0676975"
+         id="path4900-5-7-7"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.4676974"
+         cy="268.93231"
+         cx="163.06769"
+         id="path4900-0-8-9-5"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="GruppenEbene4"
+       transform="translate(356.21034,-254.53707)">
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         d="m 170,296.9 v -164 h -27.12733 l -5.3e-4,13.94463 H 121.01938 L 121.01959,132.9 H 48.872661 l -5.29e-4,13.94468 H 27.019372 L 27.019583,132.9 H 0.1 v 164 h 26.94266 l -5.29e-4,-23.9999 H 48.84932 l 2.4e-4,23.9999 h 72.193 l -5.3e-4,-24.0001 h 21.80719 l 2.3e-4,24.0001 z"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="HimmelsEbene4" />
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="Kreis4"
+         cx="85.050003"
+         cy="210.89973"
+         r="39.31657" />
+      <circle
+         r="1.4676974"
+         cy="151.43228"
+         cx="7.0676975"
+         id="path4900-1-65"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.4676974"
+         cy="151.43228"
+         cx="163.06769"
+         id="path4900-0-6-4"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.4676974"
+         cy="268.93231"
+         cx="7.0676975"
+         id="path4900-5-7-6"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.4676974"
+         cy="268.93231"
+         cx="163.06769"
+         id="path4900-0-8-9-7"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="GruppenEbene3"
+       transform="translate(526.11034,-254.53707)">
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         d="m 170,296.9 v -164 h -27.12733 l -5.3e-4,13.94463 H 121.01938 L 121.01959,132.9 H 48.872661 l -5.29e-4,13.94468 H 27.019372 L 27.019583,132.9 H 0.1 v 164 h 26.94266 l -5.29e-4,-23.9999 H 48.84932 l 2.4e-4,23.9999 h 72.193 l -5.3e-4,-24.0001 h 21.80719 l 2.3e-4,24.0001 z"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="HimmelsEbene3" />
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="Kreis3"
+         cx="85.050003"
+         cy="210.89973"
+         r="45.288708" />
+      <circle
+         r="1.4676974"
+         cy="151.43227"
+         cx="7.0676975"
+         id="path4900-1-3"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.4676974"
+         cy="151.43227"
+         cx="163.06769"
+         id="path4900-0-6-0"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.4676974"
+         cy="268.93231"
+         cx="7.0676975"
+         id="path4900-5-7-8"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.4676974"
+         cy="268.93231"
+         cx="163.06769"
+         id="path4900-0-8-9-72"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="GruppenEbene2"
+       transform="translate(696.01034,-254.53707)">
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         d="m 170.00001,296.9 v -164 h -27.12733 l -5.3e-4,13.94463 H 121.01938 L 121.01959,132.9 H 48.872661 l -5.29e-4,13.94468 H 27.019372 L 27.019583,132.9 H 0.1 v 164 h 26.94266 l -5.29e-4,-23.9999 H 48.84932 l 2.4e-4,23.9999 h 72.193 l -5.3e-4,-24.0001 h 21.8072 l 2.3e-4,24.0001 z"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="HimmelsEbene2" />
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="Kreis2"
+         cx="85.050003"
+         cy="210.89973"
+         r="51.260845" />
+      <circle
+         r="1.4676974"
+         cy="151.43227"
+         cx="7.0676975"
+         id="path4900-1-79"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.4676974"
+         cy="151.43227"
+         cx="163.06769"
+         id="path4900-0-6-1"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.4676974"
+         cy="268.93231"
+         cx="7.0676975"
+         id="path4900-5-7-05"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.4676974"
+         cy="268.93231"
+         cx="163.06769"
+         id="path4900-0-8-9-1"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
